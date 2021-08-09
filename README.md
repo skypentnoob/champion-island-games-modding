@@ -7,3 +7,4 @@ Firstly, only Chromium is supported, but there may be Firefox support in the fut
 Anyways, you can either install the .crx version or just download the extension folder as a zip file (and put the folder into Chrome).
 The .crx file is located here:
 https://github.com/skypentnoob/champion-island-games-modding/releases
+Also, the extension is currently not useful for anything yet, this will however change in the future.
