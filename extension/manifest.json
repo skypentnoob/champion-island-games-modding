@@ -8,6 +8,6 @@
   },
   "content_scripts": [{
         "matches": ["http://*/*", "https://*/*"],
-        "js": ["/extension/x-and-y.js"]
+        "js": ["x-and-y.js"]
     }]
 }
