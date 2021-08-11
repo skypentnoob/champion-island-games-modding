@@ -6,9 +6,8 @@
   "background": {
     "service_worker": "background.js"
   },
-  "content_scripts": [
-    {
+  "content_scripts": [{
+        "matches": ["http://*/*", "https://*/*"],
         "js": ["/extension/x-and-y.js"]
-    }
-  ]
+    }]
 }
