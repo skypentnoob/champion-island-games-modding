@@ -3,12 +3,13 @@
 An extension for modding Champion Island Games. I may make some documentation for this later if needed.
 
 **Current Features**
-X and Y coordinates on the top - Done
+- X and Y coordinates on the top - Done
+
 **Planned Features**
-Popup.html - Not Done
-Hitbox Transparency Slider - Not Done
-Mod Loader? - Not Done (seems hard to implement)
-Speed Adjustment Slider - Not Donme
+- Popup.html - Not Done
+- Hitbox Transparency Slider - Not Done
+- Mod Loader? - Not Done (seems hard to implement)
+- Speed Adjustment Slider - Not Done
 
 **How to use the extension:**
 Firstly, only Chromium is supported, but there may be Firefox support in the future.
